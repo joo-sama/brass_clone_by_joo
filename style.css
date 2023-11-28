@@ -1497,13 +1497,14 @@ textarea.w-select {
 
 .w-dropdown-list {
   min-width: 100%;
-  background: #ddd;
+  background:#000;
   display: none;
   position: absolute;
 }
 
 .w-dropdown-list.w--open {
   display: block;
+  background-color: #000;
 }
 
 .w-dropdown-link {
