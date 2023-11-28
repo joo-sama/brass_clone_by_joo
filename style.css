@@ -235,28 +235,28 @@ th {
 }
 
 .w-icon-slider-right:before {
-  content: "î˜€";
+  content: "<span class="material-symbols-outlined">expand_more</span>";
 }
 
 .w-icon-slider-left:before {
-  content: "î˜";
+  content:"<span class="material-symbols-outlined">expand_more</span>";
 }
 
 .w-icon-nav-menu:before {
-  content: "î˜‚";
+  content: "<span class="material-symbols-outlined">expand_more</span>";
 }
 
 .w-icon-arrow-down:before,
 .w-icon-dropdown-toggle:before {
-  content: "î˜ƒ";
+  content: "<span class="material-symbols-outlined">expand_more</span>";
 }
 
 .w-icon-file-upload-remove:before {
-  content: "î¤€";
+  content: "<span class="material-symbols-outlined">expand_more</span>";
 }
 
 .w-icon-file-upload-icon:before {
-  content: "î¤ƒ";
+  content: "<span class="material-symbols-outlined">expand_more</span>";
 }
 
 * {
