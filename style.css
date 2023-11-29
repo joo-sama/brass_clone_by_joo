@@ -235,28 +235,34 @@ th {
 }
 
 .w-icon-slider-right:before {
-  content: "<span class="material-symbols-outlined">expand_more</span>";
+  font-family: "Material Symbols Outlined";
+  content: "expand_more";
 }
 
 .w-icon-slider-left:before {
-  content:"<span class="material-symbols-outlined">expand_more</span>";
+  font-family: "Material Symbols Outlined";
+  content:"expand_more";
 }
 
 .w-icon-nav-menu:before {
-  content: "<span class="material-symbols-outlined">expand_more</span>";
+  font-family: "Material Symbols Outlined";
+  content: "expand_more";
 }
 
 .w-icon-arrow-down:before,
 .w-icon-dropdown-toggle:before {
-  content: "<span class="material-symbols-outlined">expand_more</span>";
+  font-family: "Material Symbols Outlined";
+  content: "expand_more";
 }
 
 .w-icon-file-upload-remove:before {
-  content: "<span class="material-symbols-outlined">expand_more</span>";
+  font-family: "Material Symbols Outlined";
+  content: "expand_more";
 }
 
 .w-icon-file-upload-icon:before {
-  content: "<span class="material-symbols-outlined">expand_more</span>";
+  font-family: "Material Symbols Outlined";
+  content: "expand_more";
 }
 
 * {
